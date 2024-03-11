@@ -1,0 +1,3 @@
+/home/david/Addressbooks/build/CMakeFiles/Addressbooks.dir
+/home/david/Addressbooks/build/CMakeFiles/edit_cache.dir
+/home/david/Addressbooks/build/CMakeFiles/rebuild_cache.dir

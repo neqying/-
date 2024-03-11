@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/david/Addressbooks/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Addressbooks.dir/Addressbooks.cpp.o -c /home/david/Addressbooks/Addressbooks.cpp",
+  "file": "/home/david/Addressbooks/Addressbooks.cpp"
+},
+{
+  "directory": "/home/david/Addressbooks/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Addressbooks.dir/main.cpp.o -c /home/david/Addressbooks/main.cpp",
+  "file": "/home/david/Addressbooks/main.cpp"
+}
+]
